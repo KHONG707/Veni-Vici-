@@ -1,0 +1,35 @@
+.ban-list {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 300px;
+  }
+  
+  .ban-list h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .ban-list h3 {
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
+  
+  .ban-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .ban-list ul li {
+    background-color: #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    cursor: pointer; /* Makes it clear that items are clickable */
+    transition: background-color 0.3s;
+  }
+  
+  .ban-list ul li:hover {
+    background-color: #ddd;
+  }

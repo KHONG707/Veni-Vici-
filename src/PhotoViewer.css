@@ -1,0 +1,26 @@
+.photo-container {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: white;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .photo-container p {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  .photo-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+  }
+  
+  .buttons button {
+    margin: 10px;
+  }
+  
